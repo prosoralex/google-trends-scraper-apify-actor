@@ -1,5 +1,7 @@
 # Google Trends Scraper — Apify Actor usage guide
 
+[![Run for free on Apify](https://img.shields.io/badge/Apify-Run%20it%20free%20%E2%80%94%20%245%2Fmo%20credit-24C1E0)](https://console.apify.com/sign-up?fpr=aupara)
+
 FAST & CHEAP — $1 / 1,000 results. Scrape Google Trends by keyword or URL: trends over time, subregions, related queries/topics, locations, time ranges and categories. Export data, run via API, schedule and monitor runs.
 
 > **This repository does not contain the Actor's source code.** The Actor
