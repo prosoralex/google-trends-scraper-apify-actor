@@ -21,8 +21,8 @@ RUN_INPUT = {
     "searchTerms": [
         "web scraping"
     ],
-    "isMultiple": false,
-    "skipDebugScreen": false,
+    "isMultiple": False,
+    "skipDebugScreen": False,
     "startUrls": [
         {
             "url": "https://trends.google.com/trends/explore?date=today%2012-m&q=web%20scraping"
